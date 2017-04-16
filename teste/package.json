@@ -1,0 +1,13 @@
+{
+  "name": "Node-Arduino",
+  "version": "0.0.0",
+  "description": "NodeArduino",
+  "main": "server.js",
+  "author": {
+    "name": "binho",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
